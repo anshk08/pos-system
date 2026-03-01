@@ -3,6 +3,7 @@ import fs from "fs/promises";
 import path from "path";
 
 const USERS_FILE = path.join(process.cwd(), "data", "users.json");
+const adminEmail = "testadmin@testpos.com";
 
 interface StoredUser {
   email: string;
@@ -25,7 +26,7 @@ export async function GET(request: NextRequest) {
     const role = parts[1] || "user";
 
     if (role === "admin") {
-      if (email === process.env.ADMIN_EMAIL) {
+      if (email === adminEmail) {
         return NextResponse.json({ email, role });
       }
       return NextResponse.json({ message: "Invalid session" }, { status: 401 });
