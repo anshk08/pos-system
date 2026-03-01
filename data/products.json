@@ -1,0 +1,50 @@
+[
+  {
+    "id": "prod-1772320302856",
+    "name": "Dog Food",
+    "description": "Specially formulated dog food designed to provide essential nutrients for your canine companion.",
+    "price": 10.99,
+    "stock": 71,
+    "image": "https://cdn.dummyjson.com/product-images/groceries/dog-food/1.webp"
+  },
+  {
+    "id": "prod-1772320342459",
+    "name": "Eggs",
+    "description": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+    "price": 2.99,
+    "stock": 30,
+    "image": "https://cdn.dummyjson.com/product-images/groceries/eggs/1.webp"
+  },
+  {
+    "id": "prod-1772320489895",
+    "name": "Green Bell Pepper",
+    "description": "Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
+    "price": 1.29,
+    "stock": 33,
+    "image": "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/1.webp"
+  },
+  {
+    "id": "prod-1772320516228",
+    "name": "Green Chili Pepper",
+    "description": "Spicy green chili pepper, ideal for adding heat to your favorite recipes.",
+    "price": 0.99,
+    "stock": 3,
+    "image": "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/1.webp"
+  },
+  {
+    "id": "prod-1772320541725",
+    "name": "Honey Jar",
+    "description": "Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
+    "price": 6.99,
+    "stock": 34,
+    "image": "https://cdn.dummyjson.com/product-images/groceries/honey-jar/1.webp"
+  },
+  {
+    "id": "prod-1772320577267",
+    "name": "Kiwi",
+    "description": "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
+    "price": 2.49,
+    "stock": 54,
+    "image": "https://cdn.dummyjson.com/product-images/groceries/kiwi/1.webp"
+  }
+]
